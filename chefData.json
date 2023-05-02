@@ -1,0 +1,50 @@
+[
+  {
+    "id": 101,
+    "picture": "https://example.com/chef1.jpg",
+    "name": "Mario Batali",
+    "experience": 12,
+    "recipes": 4,
+    "likes": 10000
+  },
+  {
+    "id": 102,
+    "picture": "https://example.com/chef2.jpg",
+    "name": "Giada De Laurentiis",
+    "experience": 8,
+    "recipes": 3,
+    "likes": 8000
+  },
+  {
+    "id": 103,
+    "picture": "https://example.com/chef3.jpg",
+    "name": "Gordon Ramsay",
+    "experience": 15,
+    "recipes": 4,
+    "likes": 12000
+  },
+  {
+    "id": 104,
+    "picture": "https://example.com/chef4.jpg",
+    "name": "Ina Garten",
+    "experience": 5,
+    "recipes": 3,
+    "likes": 6000
+  },
+  {
+    "id": 105,
+    "picture": "https://example.com/chef5.jpg",
+    "name": "Bobby Flay",
+    "experience": 10,
+    "recipes": 3,
+    "likes": 9000
+  },
+  {
+    "id": 106,
+    "picture": "https://example.com/chef6.jpg",
+    "name": "Jamie Oliver",
+    "experience": 7,
+    "recipes": 4,
+    "likes": 7000
+  }
+]
