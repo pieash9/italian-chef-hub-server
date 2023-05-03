@@ -1,50 +1,73 @@
 [
   {
     "id": 101,
-    "picture": "https://example.com/chef1.jpg",
+    "picture": "https://templatemanja.com/tashan/demo/assets/images/team_img8.jpg",
     "name": "Mario Batali",
     "experience": 12,
-    "recipes": 4,
+    "recipesNo":3,
+    "recipes": [
+      "Caprese Salad",
+      "Bruschetta with Tomato and Basil",
+      "Arancini (Sicilian Rice Balls)"
+    ],
     "likes": 10000
   },
   {
     "id": 102,
-    "picture": "https://example.com/chef2.jpg",
+    "picture": "https://templatemanja.com/tashan/demo/assets/images/team_img2.jpg",
     "name": "Giada De Laurentiis",
     "experience": 8,
-    "recipes": 3,
+    "recipesNo":4,
+    "recipes": [
+      "Spaghetti Carbonara",
+      "Fettuccine Alfredo",
+      "Penne alla Vodka",
+      "Linguine with Clam Sauce"
+    ],
     "likes": 8000
   },
   {
     "id": 103,
-    "picture": "https://example.com/chef3.jpg",
+    "picture": "https://templatemanja.com/tashan/demo/assets/images/team_img3.jpg",
     "name": "Gordon Ramsay",
     "experience": 15,
-    "recipes": 4,
+    "recipesNo":3,
+    "recipes": [
+      "Margherita Pizza",
+      "Pepperoni Pizza",
+      "Quattro Formaggi Pizza"
+    ],
     "likes": 12000
   },
   {
     "id": 104,
-    "picture": "https://example.com/chef4.jpg",
+    "picture": "https://templatemanja.com/tashan/demo/assets/images/team_img5.jpg",
     "name": "Ina Garten",
     "experience": 5,
-    "recipes": 3,
+    "recipesNo":3,
+    "recipes": [
+      "Mushroom Risotto",
+      "Tomato and Basil Risotto",
+      "Seafood Risotto"
+    ],
     "likes": 6000
   },
   {
     "id": 105,
-    "picture": "https://example.com/chef5.jpg",
+    "picture": "https://templatemanja.com/tashan/demo/assets/images/team_img6.jpg",
     "name": "Bobby Flay",
     "experience": 10,
-    "recipes": 3,
+    "recipesNo":3,
+    "recipes": ["Osso Buco", "Chicken Parmigiana", "Veal Marsala"],
     "likes": 9000
   },
   {
     "id": 106,
-    "picture": "https://example.com/chef6.jpg",
+    "picture": "https://templatemanja.com/tashan/demo/assets/images/team_img7.jpg",
     "name": "Jamie Oliver",
     "experience": 7,
-    "recipes": 4,
+    "recipesNo":3,
+    "recipes": ["Tiramisu", "Panna Cotta", "Cannoli"],
     "likes": 7000
   }
 ]
