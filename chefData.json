@@ -4,70 +4,317 @@
     "picture": "https://templatemanja.com/tashan/demo/assets/images/team_img8.jpg",
     "name": "Mario Batali",
     "experience": 12,
-    "recipesNo":3,
-    "recipes": [
-      "Caprese Salad",
-      "Bruschetta with Tomato and Basil",
-      "Arancini (Sicilian Rice Balls)"
-    ],
-    "likes": 10000
+    "recipesNo": 3,
+    "description": "This rising star in the Italian culinary scene is quickly making a name for themselves with their fresh and contemporary take on classic Italian dishes. With a focus on bold flavors and unexpected ingredient combinations, this chef's dishes are a feast for the senses.",
+    "likes": 10000,
+    "recipesDetails": [
+      {
+        "name": "Tiramisu",
+        "ingredients": [
+          "6 egg yolks",
+          "3/4 cup white sugar",
+          "2/3 cup milk",
+          "1 1/4 cups heavy cream",
+          "1/2 teaspoon vanilla extract",
+          "1 pound mascarpone cheese",
+          "1/4 cup strong brewed coffee"
+        ],
+        "method": "In a medium saucepan, whisk together egg yolks and sugar until well blended. Whisk in milk and cook over low heat, stirring constantly, until mixture thickens and coats the back of a spoon. Remove from heat and cool. In a large bowl, beat cream and vanilla until stiff peaks form. Fold in mascarpone cheese. In a small bowl, combine coffee and 2 tablespoons of sugar. Dip each ladyfinger into the coffee mixture and arrange in a single layer in a 9x13 inch dish. Spread half of the mascarpone mixture over the ladyfingers, then repeat with another layer of ladyfingers and mascarpone mixture. Cover and refrigerate for at least 2 hours. Sprinkle with cocoa powder before serving.",
+        "rating": 4.8
+      },
+      {
+        "name": "Panna Cotta",
+        "ingredients": [
+          "2 cups heavy cream",
+          "1/4 cup white sugar",
+          "1 teaspoon vanilla extract",
+          "2 1/4 teaspoons unflavored gelatin",
+          "3 tablespoons cold water",
+          "Fresh berries, for serving"
+        ],
+        "method": "In a saucepan, stir together heavy cream and sugar. Cook over medium heat until sugar dissolves, then remove from heat and stir in vanilla. In a small bowl, sprinkle gelatin over cold water and let stand for 5 minutes. Pour gelatin mixture into the cream mixture and stir well. Pour into serving dishes and refrigerate for at least 2 hours. Serve topped with fresh berries.",
+        "rating": 4.5
+      },
+      {
+        "name": "Cannoli",
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "1 tablespoon white sugar",
+          "1/4 teaspoon salt",
+          "1 tablespoon butter",
+          "1 egg yolk",
+          "1/4 cup sweet white wine",
+          "1/2 cup ricotta cheese",
+          "1/2 cup mascarpone cheese"
+        ],
+        "method": "In a large bowl, sift together flour, sugar, and salt. Cut in butter until mixture resembles coarse crumbs. In a separate bowl, beat egg yolk and wine together and stir into flour mixture to form a dough. Roll dough out on a floured surface and cut into circles. Wrap circles around cannoli tubes and fry in hot oil until golden brown. Remove from tubes and cool. In a large bowl, combine ricotta cheese, mascarpone cheese, confectioners' sugar, and cinnamon. Stir in citron and chocolate chips. Fill cooled shells with the cheese mixture and dust with additional confectioners' sugar, if desired.",
+        "rating": 4.6
+      }
+    ]
   },
   {
     "id": 102,
     "picture": "https://templatemanja.com/tashan/demo/assets/images/team_img2.jpg",
     "name": "Giada De Laurentiis",
     "experience": 8,
-    "recipesNo":4,
-    "recipes": [
-      "Spaghetti Carbonara",
-      "Fettuccine Alfredo",
-      "Penne alla Vodka",
-      "Linguine with Clam Sauce"
-    ],
-    "likes": 8000
+    "recipesNo": 4,
+    "description": "A master of Italian cuisine, this chef's dishes are a celebration of Italy's rich culinary heritage. Combining traditional techniques with modern twists, this culinary expert has gained a reputation for their innovative and unforgettable creations.",
+    "likes": 8000,
+    "recipesDetails": [
+      {
+        "name": "Tiramisu",
+        "ingredients": [
+          "6 egg yolks",
+          "3/4 cup white sugar",
+          "2/3 cup milk",
+          "1 1/4 cups heavy cream",
+          "1/2 teaspoon vanilla extract",
+          "1 pound mascarpone cheese",
+          "1/4 cup strong brewed coffee"
+        ],
+        "method": "In a medium saucepan, whisk together egg yolks and sugar until well blended. Whisk in milk and cook over low heat, stirring constantly, until mixture thickens and coats the back of a spoon. Remove from heat and cool. In a large bowl, beat cream and vanilla until stiff peaks form. Fold in mascarpone cheese. In a small bowl, combine coffee and 2 tablespoons of sugar. Dip each ladyfinger into the coffee mixture and arrange in a single layer in a 9x13 inch dish. Spread half of the mascarpone mixture over the ladyfingers, then repeat with another layer of ladyfingers and mascarpone mixture. Cover and refrigerate for at least 2 hours. Sprinkle with cocoa powder before serving.",
+        "rating": 4.8
+      },
+      {
+        "name": "Panna Cotta",
+        "ingredients": [
+          "2 cups heavy cream",
+          "1/4 cup white sugar",
+          "1 teaspoon vanilla extract",
+          "2 1/4 teaspoons unflavored gelatin",
+          "3 tablespoons cold water",
+          "Fresh berries, for serving"
+        ],
+        "method": "In a saucepan, stir together heavy cream and sugar. Cook over medium heat until sugar dissolves, then remove from heat and stir in vanilla. In a small bowl, sprinkle gelatin over cold water and let stand for 5 minutes. Pour gelatin mixture into the cream mixture and stir well. Pour into serving dishes and refrigerate for at least 2 hours. Serve topped with fresh berries.",
+        "rating": 4.5
+      },
+      {
+        "name": "Cannoli",
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "1 tablespoon white sugar",
+          "1/4 teaspoon salt",
+          "1 tablespoon butter",
+          "1 egg yolk",
+          "1/4 cup sweet white wine",
+          "1/2 cup ricotta cheese",
+          "1/2 cup mascarpone cheese"
+        ],
+        "method": "In a large bowl, sift together flour, sugar, and salt. Cut in butter until mixture resembles coarse crumbs. In a separate bowl, beat egg yolk and wine together and stir into flour mixture to form a dough. Roll dough out on a floured surface and cut into circles. Wrap circles around cannoli tubes and fry in hot oil until golden brown. Remove from tubes and cool. In a large bowl, combine ricotta cheese, mascarpone cheese, confectioners' sugar, and cinnamon. Stir in citron and chocolate chips. Fill cooled shells with the cheese mixture and dust with additional confectioners' sugar, if desired.",
+        "rating": 4.6
+      }
+    ]
   },
   {
     "id": 103,
     "picture": "https://templatemanja.com/tashan/demo/assets/images/team_img3.jpg",
     "name": "Gordon Ramsay",
     "experience": 15,
-    "recipesNo":3,
-    "recipes": [
-      "Margherita Pizza",
-      "Pepperoni Pizza",
-      "Quattro Formaggi Pizza"
-    ],
-    "likes": 12000
+    "recipesNo": 3,
+    "description": "This highly acclaimed Italian chef and restaurateur is known for their refined yet rustic approach to Italian cuisine. With a focus on traditional techniques and the highest quality ingredients, this chef's dishes are a testament to the timeless appeal of classic Italian cooking.",
+    "likes": 12000,
+    "recipesDetails": [
+      {
+        "name": "Tiramisu",
+        "ingredients": [
+          "6 egg yolks",
+          "3/4 cup white sugar",
+          "2/3 cup milk",
+          "1 1/4 cups heavy cream",
+          "1/2 teaspoon vanilla extract",
+          "1 pound mascarpone cheese",
+          "1/4 cup strong brewed coffee"
+        ],
+        "method": "In a medium saucepan, whisk together egg yolks and sugar until well blended. Whisk in milk and cook over low heat, stirring constantly, until mixture thickens and coats the back of a spoon. Remove from heat and cool. In a large bowl, beat cream and vanilla until stiff peaks form. Fold in mascarpone cheese. In a small bowl, combine coffee and 2 tablespoons of sugar. Dip each ladyfinger into the coffee mixture and arrange in a single layer in a 9x13 inch dish. Spread half of the mascarpone mixture over the ladyfingers, then repeat with another layer of ladyfingers and mascarpone mixture. Cover and refrigerate for at least 2 hours. Sprinkle with cocoa powder before serving.",
+        "rating": 4.8
+      },
+      {
+        "name": "Panna Cotta",
+        "ingredients": [
+          "2 cups heavy cream",
+          "1/4 cup white sugar",
+          "1 teaspoon vanilla extract",
+          "2 1/4 teaspoons unflavored gelatin",
+          "3 tablespoons cold water",
+          "Fresh berries, for serving"
+        ],
+        "method": "In a saucepan, stir together heavy cream and sugar. Cook over medium heat until sugar dissolves, then remove from heat and stir in vanilla. In a small bowl, sprinkle gelatin over cold water and let stand for 5 minutes. Pour gelatin mixture into the cream mixture and stir well. Pour into serving dishes and refrigerate for at least 2 hours. Serve topped with fresh berries.",
+        "rating": 4.5
+      },
+      {
+        "name": "Cannoli",
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "1 tablespoon white sugar",
+          "1/4 teaspoon salt",
+          "1 tablespoon butter",
+          "1 egg yolk",
+          "1/4 cup sweet white wine",
+          "1/2 cup ricotta cheese",
+          "1/2 cup mascarpone cheese"
+        ],
+        "method": "In a large bowl, sift together flour, sugar, and salt. Cut in butter until mixture resembles coarse crumbs. In a separate bowl, beat egg yolk and wine together and stir into flour mixture to form a dough. Roll dough out on a floured surface and cut into circles. Wrap circles around cannoli tubes and fry in hot oil until golden brown. Remove from tubes and cool. In a large bowl, combine ricotta cheese, mascarpone cheese, confectioners' sugar, and cinnamon. Stir in citron and chocolate chips. Fill cooled shells with the cheese mixture and dust with additional confectioners' sugar, if desired.",
+        "rating": 4.6
+      }
+    ]
   },
   {
     "id": 104,
     "picture": "https://templatemanja.com/tashan/demo/assets/images/team_img5.jpg",
     "name": "Ina Garten",
     "experience": 5,
-    "recipesNo":3,
-    "recipes": [
-      "Mushroom Risotto",
-      "Tomato and Basil Risotto",
-      "Seafood Risotto"
-    ],
-    "likes": 6000
+    "recipesNo": 3,
+    "description": "A talented chef with a passion for Italian cuisine, this culinary expert draws inspiration from their travels throughout Italy and their deep understanding of its regional specialties. With a focus on seasonality and a commitment to sustainability, this chef's dishes showcase the best that Italy has to offer.",
+    "likes": 6000,
+    "recipesDetails": [
+      {
+        "name": "Tiramisu",
+        "ingredients": [
+          "6 egg yolks",
+          "3/4 cup white sugar",
+          "2/3 cup milk",
+          "1 1/4 cups heavy cream",
+          "1/2 teaspoon vanilla extract",
+          "1 pound mascarpone cheese",
+          "1/4 cup strong brewed coffee"
+        ],
+        "method": "In a medium saucepan, whisk together egg yolks and sugar until well blended. Whisk in milk and cook over low heat, stirring constantly, until mixture thickens and coats the back of a spoon. Remove from heat and cool. In a large bowl, beat cream and vanilla until stiff peaks form. Fold in mascarpone cheese. In a small bowl, combine coffee and 2 tablespoons of sugar. Dip each ladyfinger into the coffee mixture and arrange in a single layer in a 9x13 inch dish. Spread half of the mascarpone mixture over the ladyfingers, then repeat with another layer of ladyfingers and mascarpone mixture. Cover and refrigerate for at least 2 hours. Sprinkle with cocoa powder before serving.",
+        "rating": 4.8
+      },
+      {
+        "name": "Panna Cotta",
+        "ingredients": [
+          "2 cups heavy cream",
+          "1/4 cup white sugar",
+          "1 teaspoon vanilla extract",
+          "2 1/4 teaspoons unflavored gelatin",
+          "3 tablespoons cold water",
+          "Fresh berries, for serving"
+        ],
+        "method": "In a saucepan, stir together heavy cream and sugar. Cook over medium heat until sugar dissolves, then remove from heat and stir in vanilla. In a small bowl, sprinkle gelatin over cold water and let stand for 5 minutes. Pour gelatin mixture into the cream mixture and stir well. Pour into serving dishes and refrigerate for at least 2 hours. Serve topped with fresh berries.",
+        "rating": 4.5
+      },
+      {
+        "name": "Cannoli",
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "1 tablespoon white sugar",
+          "1/4 teaspoon salt",
+          "1 tablespoon butter",
+          "1 egg yolk",
+          "1/4 cup sweet white wine",
+          "1/2 cup ricotta cheese",
+          "1/2 cup mascarpone cheese"
+        ],
+        "method": "In a large bowl, sift together flour, sugar, and salt. Cut in butter until mixture resembles coarse crumbs. In a separate bowl, beat egg yolk and wine together and stir into flour mixture to form a dough. Roll dough out on a floured surface and cut into circles. Wrap circles around cannoli tubes and fry in hot oil until golden brown. Remove from tubes and cool. In a large bowl, combine ricotta cheese, mascarpone cheese, confectioners' sugar, and cinnamon. Stir in citron and chocolate chips. Fill cooled shells with the cheese mixture and dust with additional confectioners' sugar, if desired.",
+        "rating": 4.6
+      }
+    ]
   },
   {
     "id": 105,
     "picture": "https://templatemanja.com/tashan/demo/assets/images/team_img6.jpg",
     "name": "Bobby Flay",
     "experience": 10,
-    "recipesNo":3,
-    "recipes": ["Osso Buco", "Chicken Parmigiana", "Veal Marsala"],
-    "likes": 9000
+    "recipesNo": 3,
+    "description": "A beloved Italian chef and cookbook author, known for their simple yet flavorful dishes that celebrate the beauty and diversity of Italian cuisine. Drawing on their roots in rural Italy, this chef emphasizes the importance of fresh, locally-sourced ingredients in their cooking.",
+    "likes": 9000,
+    "recipesDetails": [
+      {
+        "name": "Tiramisu",
+        "ingredients": [
+          "6 egg yolks",
+          "3/4 cup white sugar",
+          "2/3 cup milk",
+          "1 1/4 cups heavy cream",
+          "1/2 teaspoon vanilla extract",
+          "1 pound mascarpone cheese",
+          "1/4 cup strong brewed coffee"
+        ],
+        "method": "In a medium saucepan, whisk together egg yolks and sugar until well blended. Whisk in milk and cook over low heat, stirring constantly, until mixture thickens and coats the back of a spoon. Remove from heat and cool. In a large bowl, beat cream and vanilla until stiff peaks form. Fold in mascarpone cheese. In a small bowl, combine coffee and 2 tablespoons of sugar. Dip each ladyfinger into the coffee mixture and arrange in a single layer in a 9x13 inch dish. Spread half of the mascarpone mixture over the ladyfingers, then repeat with another layer of ladyfingers and mascarpone mixture. Cover and refrigerate for at least 2 hours. Sprinkle with cocoa powder before serving.",
+        "rating": 4.8
+      },
+      {
+        "name": "Panna Cotta",
+        "ingredients": [
+          "2 cups heavy cream",
+          "1/4 cup white sugar",
+          "1 teaspoon vanilla extract",
+          "2 1/4 teaspoons unflavored gelatin",
+          "3 tablespoons cold water",
+          "Fresh berries, for serving"
+        ],
+        "method": "In a saucepan, stir together heavy cream and sugar. Cook over medium heat until sugar dissolves, then remove from heat and stir in vanilla. In a small bowl, sprinkle gelatin over cold water and let stand for 5 minutes. Pour gelatin mixture into the cream mixture and stir well. Pour into serving dishes and refrigerate for at least 2 hours. Serve topped with fresh berries.",
+        "rating": 4.5
+      },
+      {
+        "name": "Cannoli",
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "1 tablespoon white sugar",
+          "1/4 teaspoon salt",
+          "1 tablespoon butter",
+          "1 egg yolk",
+          "1/4 cup sweet white wine",
+          "1/2 cup ricotta cheese",
+          "1/2 cup mascarpone cheese"
+        ],
+        "method": "In a large bowl, sift together flour, sugar, and salt. Cut in butter until mixture resembles coarse crumbs. In a separate bowl, beat egg yolk and wine together and stir into flour mixture to form a dough. Roll dough out on a floured surface and cut into circles. Wrap circles around cannoli tubes and fry in hot oil until golden brown. Remove from tubes and cool. In a large bowl, combine ricotta cheese, mascarpone cheese, confectioners' sugar, and cinnamon. Stir in citron and chocolate chips. Fill cooled shells with the cheese mixture and dust with additional confectioners' sugar, if desired.",
+        "rating": 4.6
+      }
+    ]
   },
   {
     "id": 106,
     "picture": "https://templatemanja.com/tashan/demo/assets/images/team_img7.jpg",
     "name": "Jamie Oliver",
     "experience": 7,
-    "recipesNo":3,
-    "recipes": ["Tiramisu", "Panna Cotta", "Cannoli"],
-    "likes": 7000
+    "recipesNo": 3,
+    "description": "A renowned Italian chef and restaurateur, famous for their creative interpretations of classic Italian dishes. With a passion for experimentation and a deep respect for tradition, this chef has earned numerous accolades for their culinary artistry and innovative approach to Italian cuisine.",
+    "likes": 7000,
+    "recipesDetails": [
+      {
+        "name": "Tiramisu",
+        "ingredients": [
+          "6 egg yolks",
+          "3/4 cup white sugar",
+          "2/3 cup milk",
+          "1 1/4 cups heavy cream",
+          "1/2 teaspoon vanilla extract",
+          "1 pound mascarpone cheese",
+          "1/4 cup strong brewed coffee"
+        ],
+        "method": "In a medium saucepan, whisk together egg yolks and sugar until well blended. Whisk in milk and cook over low heat, stirring constantly, until mixture thickens and coats the back of a spoon. Remove from heat and cool. In a large bowl, beat cream and vanilla until stiff peaks form. Fold in mascarpone cheese. In a small bowl, combine coffee and 2 tablespoons of sugar. Dip each ladyfinger into the coffee mixture and arrange in a single layer in a 9x13 inch dish. Spread half of the mascarpone mixture over the ladyfingers, then repeat with another layer of ladyfingers and mascarpone mixture. Cover and refrigerate for at least 2 hours. Sprinkle with cocoa powder before serving.",
+        "rating": 4.8
+      },
+      {
+        "name": "Panna Cotta",
+        "ingredients": [
+          "2 cups heavy cream",
+          "1/4 cup white sugar",
+          "1 teaspoon vanilla extract",
+          "2 1/4 teaspoons unflavored gelatin",
+          "3 tablespoons cold water",
+          "Fresh berries, for serving"
+        ],
+        "method": "In a saucepan, stir together heavy cream and sugar. Cook over medium heat until sugar dissolves, then remove from heat and stir in vanilla. In a small bowl, sprinkle gelatin over cold water and let stand for 5 minutes. Pour gelatin mixture into the cream mixture and stir well. Pour into serving dishes and refrigerate for at least 2 hours. Serve topped with fresh berries.",
+        "rating": 4.5
+      },
+      {
+        "name": "Cannoli",
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "1 tablespoon white sugar",
+          "1/4 teaspoon salt",
+          "1 tablespoon butter",
+          "1 egg yolk",
+          "1/4 cup sweet white wine",
+          "1/2 cup ricotta cheese",
+          "1/2 cup mascarpone cheese"
+        ],
+        "method": "In a large bowl, sift together flour, sugar, and salt. Cut in butter until mixture resembles coarse crumbs. In a separate bowl, beat egg yolk and wine together and stir into flour mixture to form a dough. Roll dough out on a floured surface and cut into circles. Wrap circles around cannoli tubes and fry in hot oil until golden brown. Remove from tubes and cool. In a large bowl, combine ricotta cheese, mascarpone cheese, confectioners' sugar, and cinnamon. Stir in citron and chocolate chips. Fill cooled shells with the cheese mixture and dust with additional confectioners' sugar, if desired.",
+        "rating": 4.6
+      }
+    ]
   }
 ]
